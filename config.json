@@ -5,6 +5,14 @@
     "homeUrl":"https://blog.meekdai.com",
     "avatarUrl":"https://meekdai.com/avatar.svg",
     "faviconUrl":"https://meekdai.com/favicon.svg",
-    "singlePage":[],
+    "singlePage":["link","about"],
+    "onePageListNum":15,
+     "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "showPostSource":0,
+    "script":"",
     "GMEEK_VERSION":"last"
 }
